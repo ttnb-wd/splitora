@@ -1,5 +1,5 @@
-import { FoundationScreen } from "@/features/home/components/foundation-screen";
+import { LandingPage } from "@/features/landing/components/landing-page";
 
 export default function HomePage() {
-  return <FoundationScreen />;
+  return <LandingPage />;
 }
